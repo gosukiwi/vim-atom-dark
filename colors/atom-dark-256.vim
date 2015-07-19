@@ -838,7 +838,7 @@ elseif has("gui_running") || &t_Co == 256
     CSAHi LightLineLeft_normal_1_raw term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
     CSAHi LightLineLeft_normal_raw_1 term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
     CSAHi LightLineRight_normal_0_raw term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
-    CSAHi CursorLine term=underline cterm=NONE ctermbg=23 ctermfg=fg gui=NONE guibg=#293739 guifg=fg
+    CSAHi CursorLine term=underline cterm=NONE ctermbg=23 gui=NONE guibg=#293739 guifg=fg
     CSAHi LightLineRight_insert_raw_raw term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
     CSAHi vimHiCtermColor term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
     CSAHi vimHiFontname term=NONE cterm=NONE ctermbg=bg ctermfg=fg gui=NONE guibg=bg guifg=fg
