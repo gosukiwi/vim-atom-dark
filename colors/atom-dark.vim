@@ -97,7 +97,7 @@ hi Visual                        guibg=#403D3D
 hi WarningMsg      guifg=#FFFFFF guibg=#333333
 hi WildMenu        guifg=#66D9EF guibg=#000000
 
-hi TabLineFill     guifg=#1D1F21 guibg=#1D1F21 
+hi TabLineFill     guifg=#1D1F21 guibg=#1D1F21
 hi TabLine         guibg=#1D1F21 guifg=#808080 gui=none
 
 hi Normal          guifg=#F8F8F2 guibg=#1D1F21
@@ -105,7 +105,7 @@ hi Comment         guifg=#7C7C7C
 hi CursorLine                    guibg=#293739
 hi CursorLineNr    guifg=#B6B7EB               gui=none
 hi CursorColumn                  guibg=#293739
-hi ColorColumn                   guibg=#232526
+hi ColorColumn     guifg=#B62323 guibg=#232526
 hi LineNr          guifg=#465457 guibg=#232526
 hi NonText         guifg=#465457
 hi SpecialKey      guifg=#465457
